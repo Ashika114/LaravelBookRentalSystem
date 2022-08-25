@@ -1,0 +1,1 @@
+<h1>THANK YOU...</h1><?php /**PATH D:\MCA_PROJECT\book\resources\views/owner\sendmail.blade.php ENDPATH**/ ?>
