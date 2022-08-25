@@ -1,1 +1,0 @@
-<h1>testing</h1><?php /**PATH D:\MCA_PROJECT\book\resources\views/admin/testemail.blade.php ENDPATH**/ ?>
