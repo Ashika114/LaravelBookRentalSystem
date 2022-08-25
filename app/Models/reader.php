@@ -1,0 +1,14 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class reader extends Model
+{
+    use HasFactory;
+    public $table="reader";
+    public $timestamps =false;
+    protected $primaryKey = 'readerid';
+}
